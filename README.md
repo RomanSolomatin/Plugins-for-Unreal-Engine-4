@@ -1,2 +1,9 @@
-# Plugins-for-Unreal-Engine-4
-specific function plugins for UE4
+
+
+## [1. eXi's Sound Visualization Plugin](https://github.com/eXifreXi/eXiSoundVis)
+>UE4 Plugin that loads .ogg files at Runtime and analysis them to get the Frequency Spectrum and control gameplay stuff with that data.
+
+>这个插件可以加载 .ogg 格式的文件来做频谱分析, 主要是给想对音频做处理的人做类似音乐精灵的功能.
+
+[![](http://imgur.com/DWGECXG.gif)](https://www.youtube.com/watch?v=N4eA68BEpak)
+
